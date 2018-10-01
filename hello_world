@@ -6,4 +6,5 @@ This is my first repository.
 void main()
 {
 cout<<"hello world";
+getch();
 }
