@@ -68,6 +68,42 @@ header {
 		margin-left: 40%;
 		font-family: Time New Roman;
 	}
+        .row {
+		margin-top: 250px;
+		position: absolute;
+	float: left;
+	width: 100%;
+}
+.column {
+	width: 33.3333333%;
+	float: left;
+	text-align: center;
+
+}
+#s1 {
+	background-color: pink;
+}
+#s2 {
+	background-color: green;
+}
+#s3 {
+	background-color: blue;
+}
+#s4 {
+	background-color: yellow;
+}
+#s5 {
+	background-color: orange;
+}
+#s6 {
+	background-color: white;
+}
+#s7 {
+	background-color: violet;
+}
+#s8 {
+	background-color: green;
+}
 	#banner{
 		margin-top: -10px;
 		width: 150px;
@@ -214,17 +250,3 @@ p {
 }
 
 /*----------------quotes design-------------*/
-.column1 {
-	float: left;
-	width: 33.33%;
-}
-.column1 {
-	float: left;
-	width: 33.33%;
-}
-
-.row:after {
-	content: "";
-	display: table;
-	clear: both;
-}
